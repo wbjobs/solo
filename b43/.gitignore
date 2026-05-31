@@ -1,7 +1,0 @@
-node_modules/
-target/
-dist/
-*.db
-.env
-.DS_Store
-*.log
